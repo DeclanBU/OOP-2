@@ -11,6 +11,10 @@ public class exchange3 {
 	public static void main(String [] args)
 		{
 		
+		
+		
+		
+		
 		String euroAsString="",rateAsString;
 		float euro,pounds=.86f ,amount,rate,diff;
 	   // int i=0;
