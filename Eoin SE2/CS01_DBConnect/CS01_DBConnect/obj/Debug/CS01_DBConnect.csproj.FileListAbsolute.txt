@@ -1,0 +1,61 @@
+C:\CS01_DBConnect\CS01_DBConnect\bin\Debug\CS01_DBConnect.exe.config
+C:\CS01_DBConnect\CS01_DBConnect\bin\Debug\CS01_DBConnect.exe
+C:\CS01_DBConnect\CS01_DBConnect\bin\Debug\CS01_DBConnect.pdb
+C:\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.csprojResolveAssemblyReference.cache
+C:\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.frmConnect.resources
+C:\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.Properties.Resources.resources
+C:\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.csproj.GenerateResource.Cache
+C:\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.exe
+C:\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.pdb
+C:\AAAA\CS01_DBConnect\CS01_DBConnect\bin\Debug\CS01_DBConnect.exe.config
+C:\AAAA\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.exe
+C:\AAAA\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.pdb
+C:\Users\t00171890\Desktop\CS01_DBConnect\CS01_DBConnect\bin\Debug\CS01_DBConnect.exe.config
+C:\Users\t00171890\Desktop\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.exe
+C:\Users\t00171890\Desktop\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.pdb
+C:\Users\t00171890\Desktop\CS01_DBConnect\CS01_DBConnect\bin\Debug\CS01_DBConnect.exe
+C:\Users\t00171890\Desktop\CS01_DBConnect\CS01_DBConnect\bin\Debug\CS01_DBConnect.pdb
+C:\Users\t00171890\Desktop\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.csprojResolveAssemblyReference.cache
+C:\Users\t00171890\Desktop\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.frmConnect.resources
+C:\Users\t00171890\Desktop\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.Properties.Resources.resources
+C:\Users\t00171890\Desktop\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.csproj.GenerateResource.Cache
+C:\Users\t00171890\Desktop\CS01_DBConnect\CS01_DBConnect\bin\Debug\Oracle.DataAccess.dll
+C:\Users\t00171890\Desktop\CS01_DBConnect\CS01_DBConnect\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00171890\Desktop\Software Engineering\CS01_DBConnect\CS01_DBConnect\bin\Debug\CS01_DBConnect.exe.config
+C:\Users\t00171890\Desktop\Software Engineering\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.exe
+C:\Users\t00171890\Desktop\Software Engineering\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.pdb
+C:\Users\t00171890\Desktop\Software Engineering\CS01_DBConnect\CS01_DBConnect\bin\Debug\CS01_DBConnect.exe
+C:\Users\t00171890\Desktop\Software Engineering\CS01_DBConnect\CS01_DBConnect\bin\Debug\CS01_DBConnect.pdb
+C:\Users\t00171890\Desktop\Software Engineering\CS01_DBConnect\CS01_DBConnect\bin\Debug\Oracle.DataAccess.dll
+C:\Users\t00171890\Desktop\Software Engineering\CS01_DBConnect\CS01_DBConnect\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00171890\Desktop\Software Engineering\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.csprojResolveAssemblyReference.cache
+C:\Users\t00171890\Desktop\Software Engineering\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.frmConnect.resources
+C:\Users\t00171890\Desktop\Software Engineering\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.frmStockReg.resources
+C:\Users\t00171890\Desktop\Software Engineering\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.Properties.Resources.resources
+C:\Users\t00171890\Desktop\Software Engineering\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.csproj.GenerateResource.Cache
+C:\Users\t00171890\Desktop\Software Engineering\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.frmUpdateStock.resources
+E:\Eoin SE2\CS01_DBConnect\CS01_DBConnect\bin\Debug\CS01_DBConnect.exe.config
+E:\Eoin SE2\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.exe
+E:\Eoin SE2\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.pdb
+E:\Eoin SE2\CS01_DBConnect\CS01_DBConnect\bin\Debug\CS01_DBConnect.exe
+E:\Eoin SE2\CS01_DBConnect\CS01_DBConnect\bin\Debug\CS01_DBConnect.pdb
+E:\Eoin SE2\CS01_DBConnect\CS01_DBConnect\bin\Debug\Oracle.DataAccess.dll
+E:\Eoin SE2\CS01_DBConnect\CS01_DBConnect\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Eoin SE2\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.csprojResolveAssemblyReference.cache
+E:\Eoin SE2\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.frmConnect.resources
+E:\Eoin SE2\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.frmStockReg.resources
+E:\Eoin SE2\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.frmUpdateStock.resources
+E:\Eoin SE2\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.Properties.Resources.resources
+E:\Eoin SE2\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.csproj.GenerateResource.Cache
+C:\Users\Declan\Desktop\Eoin SE2\CS01_DBConnect\CS01_DBConnect\bin\Debug\CS01_DBConnect.exe.config
+C:\Users\Declan\Desktop\Eoin SE2\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.exe
+C:\Users\Declan\Desktop\Eoin SE2\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.pdb
+C:\Users\Declan\Desktop\Eoin SE2\CS01_DBConnect\CS01_DBConnect\bin\Debug\CS01_DBConnect.exe
+C:\Users\Declan\Desktop\Eoin SE2\CS01_DBConnect\CS01_DBConnect\bin\Debug\CS01_DBConnect.pdb
+C:\Users\Declan\Desktop\Eoin SE2\CS01_DBConnect\CS01_DBConnect\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Declan\Desktop\Eoin SE2\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.csprojResolveAssemblyReference.cache
+C:\Users\Declan\Desktop\Eoin SE2\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.frmConnect.resources
+C:\Users\Declan\Desktop\Eoin SE2\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.frmStockReg.resources
+C:\Users\Declan\Desktop\Eoin SE2\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.frmUpdateStock.resources
+C:\Users\Declan\Desktop\Eoin SE2\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.Properties.Resources.resources
+C:\Users\Declan\Desktop\Eoin SE2\CS01_DBConnect\CS01_DBConnect\obj\Debug\CS01_DBConnect.csproj.GenerateResource.Cache
